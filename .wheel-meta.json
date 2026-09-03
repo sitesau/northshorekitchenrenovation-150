@@ -11,7 +11,7 @@
   "writeback_nonce": "a380941149515ff8",
   "links": [
     {
-      "target_url": "https://kitchen-renovation-north-shore-guide.surge.sh/",
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/northshorekitchenrenovation-001/kitchen-renovation-north-shore.html",
       "anchor": "kitchen renovation north shore",
       "rel": "follow"
     }
